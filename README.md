@@ -1,2 +1,3 @@
-# Hello-World
-My first respository , use it to test
+# 用于保存平时学习时的代码
+
+包含C++,Python等
